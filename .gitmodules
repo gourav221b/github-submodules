@@ -1,0 +1,3 @@
+[submodule "weatherApp-openweather"]
+	path = weatherApp-openweather
+	url = https://github.com/gourav221b/weatherApp-openweather
